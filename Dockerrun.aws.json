@@ -33,7 +33,7 @@
           "containerPort": 80
         }
       ],
-      "links": ["client", "server"],
+      "links": ["mainclient", "server"],
       "memory": 128
     }
    ]
